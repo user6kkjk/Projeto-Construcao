@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Programa Aula 10-11\Projetin de Construção\bin\Debug\Projetin de Construção.exe.config
+C:\Users\Aluno\Documents\Programa Aula 10-11\Projetin de Construção\bin\Debug\Projetin de Construção.exe
+C:\Users\Aluno\Documents\Programa Aula 10-11\Projetin de Construção\bin\Debug\Projetin de Construção.pdb
+C:\Users\Aluno\Documents\Programa Aula 10-11\Projetin de Construção\obj\Debug\Projetin de Construção.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Programa Aula 10-11\Projetin de Construção\obj\Debug\Projetin_de_Construção.Form1.resources
+C:\Users\Aluno\Documents\Programa Aula 10-11\Projetin de Construção\obj\Debug\Projetin_de_Construção.Properties.Resources.resources
+C:\Users\Aluno\Documents\Programa Aula 10-11\Projetin de Construção\obj\Debug\Projetin de Construção.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Programa Aula 10-11\Projetin de Construção\obj\Debug\Projetin de Construção.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Programa Aula 10-11\Projetin de Construção\obj\Debug\Projetin de Construção.exe
+C:\Users\Aluno\Documents\Programa Aula 10-11\Projetin de Construção\obj\Debug\Projetin de Construção.pdb
+C:\Users\Aluno\Documents\Programa Aula 10-11\Projetin de Construção\obj\Debug\Projetin_de_Construção.AreaEVolume.resources
+C:\Users\Aluno\Documents\Programa Aula 10-11\Projetin de Construção\obj\Debug\Projetin_de_Construção.Blocos.resources
+C:\Users\Aluno\Documents\Programa Aula 10-11\Projetin de Construção\obj\Debug\Projetin_de_Construção.Form3.resources
+C:\Users\Aluno\Documents\Programa Aula 10-11\Projetin de Construção\obj\Debug\Projetin_de_Construção.CalculoMassa.resources
